@@ -3,8 +3,9 @@
   <!-- <img src="https://avatars.githubusercontent.com/u/39716223?v=4" width=100>
   <br><br> -->
   <samp>
-    Hello, I'm <a href="/"> Harfho </a>.Interested in learning and exploring more about AI/ML , Python Development. 
+      Hello, I'm <a href="/"> Harfho</a>.Interested in learning and exploring more about AI/ML 
   </samp>
+  <img align="left" alt="Harfho Medium" width="21px" src="https://cdn.iconscout.com/icon/free/png-64/python-2038870-1720083.png" /> 
 </p>
 
 ### Connect with me :smiley:
