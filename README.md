@@ -9,22 +9,28 @@
 </p>
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/harfho">
+ <a href="/"> 
+  <!-- <a href="https://twitter.com/harfho"> -->
   <img align="left" alt="Harfho Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="https://dev.to/harfho">
+<a href="/"> 
+<!-- <a href="https://dev.to/harfho"> -->
   <img align="left" alt="Harfho DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
-<a href="https://www.reddit.com/user/harfho">
+  <a href="/"> 
+<!-- <a href="https://www.reddit.com/user/harfho"> -->
   <img align="left" alt="harfho Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
-<a href="https://www.linkedin.com/in/harfho/">
+    <a href="/"> 
+<!-- <a href="https://www.linkedin.com/in/harfho/"> -->
   <img align="left" alt="harfho Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://medium.com/@harfho">
+      <a href="/"> 
+<!-- <a href="https://medium.com/@harfho"> -->
   <img align="left" alt="Harfho Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
-<a href="https://www.quora.com/profile/harfho">
+        <a href="/"> 
+<!-- <a href="https://www.quora.com/profile/harfho"> -->
   <img align="left" alt="Harfho Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
 
