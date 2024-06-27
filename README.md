@@ -36,8 +36,8 @@
 
 <p align="center">
 
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1534/1534045.png" /> I’m currently learning AI
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1534/1534938.png" /> I’m looking to collaborate on any Django Projects
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/3749/3749948.png" /> Ask me about Python, JavaScript and Tasker 
+- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1534/1534045.png" /> I’m currently learning More On Artificial Intelligence
+- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1534/1534938.png" /> I’m looking to collaborate on any python projects
+- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/3749/3749948.png" /> You can Ask me about Python, JavaScript and Tasker.
 - <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1367/1367487.png" /> Pronouns: He/Him
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/6051/6051146.png" /> Fun fact: I'm a big fan of AutoMations
+- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/6051/6051146.png" /> Fun fact: I'm a big fan of AutoMations 
