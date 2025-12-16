@@ -2,14 +2,14 @@
   <samp>
     Hello 👋👋 <br/>
     I'm <b>Harfho</b> (Akolade Rokeeb) <br/>
-    A Software Developer from Nigeria 🇳🇬 <br/>
+    A Software Developer 🇳🇬 <br/>
     I build fast apps and automation tools.
   </samp>
 </p>
 
 <p align="center">
   <img alt="Python" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/python-2038870-1720083.png" />
-  <img alt="Rust" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/rust-2752160-2284977.png" />
+  <img alt="Rust" width="22px" src="https://img.icons8.com/?size=100&id=haeAxVQEIg0F&format=png&color=000000" />
   <img alt="JavaScript" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" />
   <img alt="Linux" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/linux-2752133-2284949.png" />
 </p>
