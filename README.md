@@ -1,44 +1,76 @@
-
-<p>
-  <!-- <img src="https://avatars.githubusercontent.com/u/39716223?v=4" width=100>
-  <br><br> -->
+<p align="center">
   <samp>
-      Hello 👋👋
-      I'm <a href="/">Harfho</a>.Interested in learning and exploring more about AI/ML 
+    Hello 👋👋 <br/>
+    I'm <b>Harfho</b> (Akolade Rokeeb) <br/>
+    A Software Developer from Nigeria 🇳🇬 <br/>
+    I build fast apps and automation tools.
   </samp>
-  <img align="left" alt="Harfho Medium" width="21px" src="https://cdn.iconscout.com/icon/free/png-64/python-2038870-1720083.png" /> 
 </p>
 
-### Connect with me :smiley:
- <a href="/"> 
-  <!-- <a href="https://twitter.com/harfho"> -->
-  <img align="left" alt="Harfho Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="/"> 
-<!-- <a href="https://dev.to/harfho"> -->
-  <img align="left" alt="Harfho DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
-  <a href="/"> 
-<!-- <a href="https://www.reddit.com/user/harfho"> -->
-  <img align="left" alt="harfho Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a>
-    <a href="/"> 
-<!-- <a href="https://www.linkedin.com/in/harfho/"> -->
-  <img align="left" alt="harfho Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-      <a href="/"> 
-<!-- <a href="https://medium.com/@harfho"> -->
-  <img align="left" alt="Harfho Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
-        <a href="/"> 
-<!-- <a href="https://www.quora.com/profile/harfho"> -->
-  <img align="left" alt="Harfho Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a><br/><br/>
+<p align="center">
+  <img alt="Python" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/python-2038870-1720083.png" />
+  <img alt="Rust" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/rust-2752160-2284977.png" />
+  <img alt="JavaScript" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" />
+  <img alt="Linux" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/linux-2752133-2284949.png" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+<p>
+  <samp>
+    I enjoy solving problems with code. <br/>
+    I turn hard and manual work into simple software. <br/>
+    I like building backend systems, automation tools, and performance-focused apps.
+  </samp>
+</p>
+
+---
+
+### 🔧 What I Work With
+
+- 🐍 Python (automation, scripts, backend)
+- 🦀 Rust (performance, system tools)
+- 🌐 JavaScript (web & backend)
+- 🖥️ Windows & Linux & Ios optimization
+
+---
+
+### 🌱 Currently
+
+- 📘 Learning more about performance, automation, and backend systems
+- 🤝 Open to collaboration on Python, Rust, or JavaScript projects
+- 💬 Ask me about automation, scripting, backend logic, and computers
+
+---
+
+### 🎯 Fun Fact
+
+- ⚙️ I really love **automation** — if it can be automated, I’ll try 😄
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/harfho/">
+    <img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  </a>
+
+  <a href="https://github.com/harfho">
+    <img align="left" alt="GitHub" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
+  </a>
+
+  <a href="https://medium.com/@harfho">
+    <img align="left" alt="Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" />
+  </a>
+</p>
+
+<br/><br/>
 
 <p align="center">
-
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1534/1534045.png" /> I’m currently learning More On Artificial Intelligence
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1534/1534938.png" /> I’m looking to collaborate on any python projects
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/3749/3749948.png" /> You can Ask me about Python, JavaScript , Tasker , Computers , Automations , Bot.
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/1367/1367487.png" /> Pronouns: He/Him
-- <img align="left" alt="Harfho Medium" width="21px" src="https://cdn-icons-png.flaticon.com/128/6051/6051146.png" /> Fun fact: I'm a big fan of AutoMations 
+  <samp>
+    “Simple code. Real problems. Useful solutions.”
+  </samp>
+</p>
